@@ -1,0 +1,1 @@
+{"error":"RESTEASY003210: Could not find resource for full path: https://localhost:30004/auth/realms/test/protocol/openid-connect/certs"}
